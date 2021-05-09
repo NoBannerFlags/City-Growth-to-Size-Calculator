@@ -1,2 +1,8 @@
 # City-Growth-to-Size-Calculator
-A program designed to solve a math problem I found interesting. Read the readme for more information
+
+
+This is designed to solve the following problem:
+
+Country (name) has a growth rate of (growth rate)% per year
+The population is currently (population) and the land area is (land area) sq yards
+Assuming the growth rate continues and is exponential, how long until there will be one person for every sq yard of land?
