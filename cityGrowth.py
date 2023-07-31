@@ -26,7 +26,7 @@ if isDebug:
 
 
 #main code
-print("Welcome to the City Growth calculator!\nDeveloped by Malokai Persoff\n\n\n")
+print("Welcome to the City Growth calculator!\nDeveloped by Malokai Persoff & C.L \n\n\n")
 print("This is designed to solve the following problem:", end="\n\n")
 print("Country (name) has a growth rate of (growth rate)% per year")
 print("The population is currently (population) and the land area is (land area) sq yards")
